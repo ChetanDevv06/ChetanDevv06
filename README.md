@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Chetan J 👋
+# Hey, I'm Chetan J 
 
 ### Computer Science Engineering Student · AI/ML Enthusiast · Software Developer
 
